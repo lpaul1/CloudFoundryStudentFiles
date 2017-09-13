@@ -6,5 +6,5 @@ applications:
   #domain: cfapps.io
   #path: build/lib/bluegreen-0.0.1-SNAPSHOT.war   # Gradle
   #path: target/bluegreen-0.0.1-SNAPSHOT.war   # Maven
-  path: pre-built/blue-0.0.1-SNAPSHOT.war
+  path: pre-built/blue.war
 
